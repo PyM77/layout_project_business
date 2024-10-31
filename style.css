@@ -416,6 +416,7 @@ span.li_six {
         text-align: left;
 
         margin-top: 257px;
+
 }
 
 .block1__sidebar p {
@@ -538,7 +539,7 @@ span.li_six {
     margin-right: 46px;
 }
 
-.content2__container h1 {
+.content2__container__h1 {
     font-family: Roboto;
     font-size: 40px;
     font-weight: 400;
